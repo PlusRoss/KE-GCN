@@ -1,6 +1,6 @@
 # GEM-GCN
 
-This repository is the official implementation of [Generalized Multi-Relational Graph Convolution Network](https://arxiv.org/abs/2006.07331). We follow the code style of [tkipf/gcn](https://github.com/tkipf/gcn).
+This repository is the official implementation of [Generalized Multi-Relational Graph Convolution Network](https://arxiv.org/abs/2006.07331) in The Web Conference (WWW) 2021. We follow the code style of [tkipf/gcn](https://github.com/tkipf/gcn).
 
 ## Requirements
 
